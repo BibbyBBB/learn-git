@@ -1,4 +1,4 @@
 # learn-git
 2nd git
 #### xiaoming's biz
-- finish V1 develop
+- finish V3 develop !
